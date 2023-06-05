@@ -8,5 +8,3 @@
 - **`GET`** `api/system/:hash`
 - **`GET`** `api/user/:hash`
 - **`GET`** `api/user/:hash/servers`
-
-  Returns procedural background image for site.
